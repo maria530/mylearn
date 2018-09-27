@@ -1,5 +1,6 @@
-/mylearn
 *.js
+/mylearn/mylearn/ignore/1.txt
+learn/ignore
 
 # Windows:
 Thumbs.db
