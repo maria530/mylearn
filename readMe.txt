@@ -11,3 +11,4 @@ add add
 fix the problem
 fix a new problem
 push teset2
+after add gitignore 
